@@ -1,2 +1,4 @@
-# matchering-cli
-Simple CLI application for Matchering library
+# Matchering CLI
+
+### Simple Matchering Command Line Application
+More info coming soon...
