@@ -5,7 +5,7 @@ import sys
 
 
 def parse_args():
-    parser = ArgumentParser(description='Simple Matchering Command Line Application')
+    parser = ArgumentParser(description='Simple Matchering 2.0 Command Line Application')
     parser.add_argument('target', type=str, help='The track you want to master')
     parser.add_argument('reference', type=str, help='Some "wet" reference track')
     parser.add_argument('result', type=str, help='Where to save your result')
