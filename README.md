@@ -1,4 +1,4 @@
 # Matchering CLI
 
-### Simple Matchering Command Line Application
+### Simple Matchering 2.0 Command Line Application
 More info coming soon...
