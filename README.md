@@ -42,7 +42,7 @@ Compact and easy-to-use CLI app for working with the **[Matchering python librar
 
 **[HOWTO: Add to the PATH on Windows 10][path]**
 
-3. Run **Anaconda Prompt (Anaconda3)** and `cd` to the cloned `matchering-cli` folder
+3. Run **Anaconda Prompt (Anaconda3)** and move to the cloned `matchering-cli` directory
 
 ```cd C:\Users\<your_username>\Downloads\matchering-cli```
 
