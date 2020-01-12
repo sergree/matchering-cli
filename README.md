@@ -16,21 +16,13 @@ Compact and easy-to-use CLI app for working with the **[Matchering python librar
 
 1. Install the necessary dependencies
 
-```sudo apt update && sudo apt -y install libsndfile1 ffmpeg python3-pip python3-venv```
+```sudo apt update && sudo apt -y install libsndfile1 ffmpeg python3-pip```
 
 2. Clone the repo and move to the directory
 
 ```git clone https://github.com/sergree/matchering-cli && cd matchering-cli```
 
-3. *(Optional) Create and activate new virtual environment*
-
-```python3 -m venv matchering-env && . matchering-env/bin/activate```
-
-4. Install `wheel` for `resampy` and `pycparser` first
-
-```python3 -m pip install wheel```
-
-5. Install dependencies from `requirements.txt`
+3. Install dependencies from `requirements.txt`
 
 ```python3 -m pip install -r requirements.txt```
 
@@ -40,17 +32,13 @@ Compact and easy-to-use CLI app for working with the **[Matchering python librar
 
 2. Install **[FFmpeg]** to `C:\ffmpeg` and add `C:\ffmpeg\bin` to the PATH variable
 
-**[HOWTO: Add to the PATH on Windows 10][path]**
+**[HOWTO][path]**
 
 3. Run **Anaconda Prompt (Anaconda3)** and move to the cloned `matchering-cli` directory
 
 ```cd C:\Users\<your_username>\Downloads\matchering-cli```
 
-4. Install `wheel` for `resampy` and `pycparser` first
-
-```python -m pip install wheel```
-
-5. Install dependencies from `requirements.txt`
+4. Install dependencies from `requirements.txt`
 
 ```python -m pip install -r requirements.txt```
 
@@ -111,4 +99,4 @@ optional arguments:
 [matchering]: https://github.com/sergree/matchering
 [anaconda]: https://www.anaconda.com/distribution
 [FFmpeg]: https://www.ffmpeg.org/download.html
-[path]: https://www.architectryan.com/2018/03/17/add-to-the-path-on-windows-10/
+[path]: https://video.stackexchange.com/questions/20495/how-do-i-set-up-and-use-ffmpeg-in-windows
