@@ -2,7 +2,7 @@
 
 ### Simple Matchering 2.0 Command Line Application
 
-Compact and easy-to-use CLI app for working with the **[Matchering python library](matchering)**. Use it for audio batch processing.
+Compact and easy-to-use CLI app for working with the **[Matchering python library][matchering]**. Use it for audio batch processing.
 
 ## Features
 
@@ -36,11 +36,11 @@ Compact and easy-to-use CLI app for working with the **[Matchering python librar
 
 ### Windows 10
 
-1. Install **[Anaconda Python/R Distribution](anaconda)**
+1. Install **[Anaconda Python/R Distribution][anaconda]**
 
 2. Install **[FFmpeg]** to `C:\ffmpeg` and add `C:\ffmpeg\bin` to the PATH variable
 
-**[HOWTO: Add to the PATH on Windows 10](path)**
+**[HOWTO: Add to the PATH on Windows 10][path]**
 
 3. Run **Anaconda Prompt (Anaconda3)** and `cd` to the cloned `matchering-cli` folder
 
@@ -98,7 +98,7 @@ optional arguments:
                         cause clipping if the bit depth is not 32
 ```
 
-### Visit **[Matchering main repo](matchering)** to learn more about it!
+### Visit **[Matchering main repo][matchering]** to learn more about it!
 
 [matchering]: https://github.com/sergree/matchering
 [anaconda]: https://www.anaconda.com/distribution
