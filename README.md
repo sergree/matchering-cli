@@ -75,6 +75,14 @@ Compact and easy-to-use CLI app for working with the **[Matchering python librar
 
 *Use `python` in Windows instead of `python3`*
 
+Also you can run it without `python3` in front, if `mg_cli.py` has `+x` permission:
+
+```sudo chmod +x mg_cli.py```
+
+And then:
+
+```mg_cli.py my_song.wav some_popular_song.wav my_song_master_16bit.wav```
+
 ```
 usage: mg_cli.py [-h] [-b {16,24,32}] [--log LOG] [--no_limiter]
                  [--dont_normalize]
