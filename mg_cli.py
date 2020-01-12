@@ -1,3 +1,16 @@
+#!/usr/bin/env python
+
+"""
+Matchering CLI
+~~~~~~~~~~~~~~~~~~~~~
+
+Simple Matchering 2.0 Command Line Application.
+
+:copyright: (C) 2016-2020 Sergree
+:license: GPLv3, see LICENSE for more details.
+
+"""
+
 import matchering as mg
 from argparse import ArgumentParser
 import logging
