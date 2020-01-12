@@ -69,7 +69,7 @@ Also you can run it without `python3` in front, if `mg_cli.py` has `+x` permissi
 
 And then:
 
-```mg_cli.py my_song.wav some_popular_song.wav my_song_master_16bit.wav```
+```./mg_cli.py my_song.wav some_popular_song.wav my_song_master_16bit.wav```
 
 ```
 usage: mg_cli.py [-h] [-b {16,24,32}] [--log LOG] [--no_limiter]
