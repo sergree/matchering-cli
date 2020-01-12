@@ -73,7 +73,7 @@ Compact and easy-to-use CLI app for working with the **[Matchering python librar
 ```python3 mg_cli.py target.wav reference.wav result_32bit.wav -b32 --no_limiter --dont_normalize```
 
 
-*Use `python` in Windows instead of `python3`.*
+*Use `python` in Windows instead of `python3`*
 
 ```
 usage: mg_cli.py [-h] [-b {16,24,32}] [--log LOG] [--no_limiter]
