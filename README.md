@@ -1,3 +1,5 @@
+[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/sergree)
+
 # Matchering CLI
 
 ### Simple Matchering 2.0 Command Line Application
@@ -95,6 +97,14 @@ optional arguments:
 ```
 
 ### Visit **[Matchering main repo][matchering]** to learn more about it!
+
+## A Coffee
+
+If our script saved your time or money, you may:
+
+[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/sergree)
+
+**Thank you!**
 
 [matchering]: https://github.com/sergree/matchering
 [anaconda]: https://www.anaconda.com/distribution
