@@ -14,7 +14,7 @@ Compact and easy-to-use CLI app for working with the **[Matchering python librar
 
 ## Installation
 
-### Ubuntu 18.04 LTS
+### Ubuntu 20.04 LTS
 
 1. Install the necessary dependencies
 
@@ -107,6 +107,6 @@ If our script saved your time or money, you may:
 **Thank you!**
 
 [matchering]: https://github.com/sergree/matchering
-[anaconda]: https://www.anaconda.com/distribution
+[anaconda]: https://www.anaconda.com/products/individual#Downloads
 [FFmpeg]: https://www.ffmpeg.org/download.html
 [path]: https://video.stackexchange.com/questions/20495/how-do-i-set-up-and-use-ffmpeg-in-windows
