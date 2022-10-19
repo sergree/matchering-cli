@@ -1,4 +1,4 @@
-[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://qiwi.com/n/SERGREE)
+[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://boosty.to/sergree)
 
 # Matchering CLI
 
@@ -102,7 +102,7 @@ optional arguments:
 
 If our script saved your time or money, you may:
 
-[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://qiwi.com/n/SERGREE)
+[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://boosty.to/sergree)
 
 **Thank you!**
 
